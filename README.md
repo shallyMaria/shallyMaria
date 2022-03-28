@@ -1,10 +1,9 @@
 <h1>Hey, 👋 Iam Shallon Maria</h1>
 <p>I am a developer who enjoy writing computer programs ✌</p>
 
-<a href="https://denniskibet.com/">
+<a href="">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=shallyMaria&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" />&nbsp;
- <!-- wi*quL3fcV -->
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shallyMaria&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&theme=dark" /></a>
+</a>
 
 <h2>🚀 Some Tools I Use</h2>
 
